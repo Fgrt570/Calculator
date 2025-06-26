@@ -1,3 +1,5 @@
 Калькулятор
 Язык: C#
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2ee9d9d7-d14b-4824-bcd9-66d94a192d6a)
+![image](https://github.com/user-attachments/assets/2ee9d9d7-d14b-4824-bcd9-66d94a192d6a)
+
